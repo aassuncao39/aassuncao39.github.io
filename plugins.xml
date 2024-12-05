@@ -8,45 +8,19 @@
         <trusted>True</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
-        <homepage><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></homepage>
+        <homepage><![CDATA[https://aassuncao39.github.io./]]></homepage>
         <file_name>plugin.zip</file_name>
         <icon>analyze_icon.png</icon>
         <author_name>Martin Dobias</author_name>
-        <download_url>https://coffeyinformationbr.bitbucket.io/plugin.zip</download_url>
+        <download_url>https://aassuncao39.github.io./plugin.zip</download_url>
         <uploaded_by><![CDATA[elpaso]]></uploaded_by>
         <create_date>2011-05-19T05:53:59.287786+00:00</create_date>
         <update_date>2018-05-30T11:35:58.436556+00:00</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/elpaso/quickwkt/issues]]></tracker>
-        <repository><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></repository>
+        <repository><![CDATA[https://aassuncao39.github.io./]]></repository>
         <tags><![CDATA[wkt,viewer]]></tags>
-        <downloads>146527</downloads>
-        <average_vote>4.696143086796369</average_vote>
-        <rating_votes>79</rating_votes>
-        <external_dependencies></external_dependencies>
-        <server>False</server>
-    </pyqgis_plugin>
-    <pyqgis_plugin name="Gpx Analyzer offline" version="0.1" plugin_id="2">
-        <description>Gpx Analyzer offline</description>
-        <about>Análises geométricas e geotécnicas</about>
-        <version>0.1</version>
-        <trusted>True</trusted>
-        <qgis_minimum_version>3.0</qgis_minimum_version>
-        <qgis_maximum_version>3.99</qgis_maximum_version>
-        <homepage><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></homepage>
-        <file_name>gpx_analyzer.zip</file_name>
-        <icon>analyze_icon.png</icon>
-        <author_name>Tetra Tech, Inc</author_name>
-        <download_url>https://coffeyinformationbr.bitbucket.io/gpx_analyzer.zip</download_url>
-        <uploaded_by><![CDATA[elpaso]]></uploaded_by>
-        <create_date>2011-05-19T05:53:59.287786+00:00</create_date>
-        <update_date>2018-05-30T11:35:58.436556+00:00</update_date>
-        <experimental>False</experimental>
-        <deprecated>False</deprecated>
-        <tracker><![CDATA[https://github.com/elpaso/quickwkt/issues]]></tracker>
-        <repository><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></repository>
-        <tags><![CDATA[geotecnia,hidrologia,drenagem]]></tags>
         <downloads>146527</downloads>
         <average_vote>4.696143086796369</average_vote>
         <rating_votes>79</rating_votes>
@@ -60,46 +34,20 @@
         <trusted>True</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
-        <homepage><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></homepage>
+        <homepage><![CDATA[https://aassuncao39.github.io./]]></homepage>
         <file_name>paebm.zip</file_name>
         <icon>images/icon.png</icon>
         <author_name>Tetra Tech, Inc</author_name>
-        <download_url>https://coffeyinformationbr.bitbucket.io/paebm.zip</download_url>
+        <download_url>https://aassuncao39.github.io./paebm.zip</download_url>
         <uploaded_by><![CDATA[elpaso]]></uploaded_by>
         <create_date>2024-07-14T05:53:59.287786+00:00</create_date>
         <update_date>2024-07-14T05:53:59.287786+00:00</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/elpaso/quickwkt/issues]]></tracker>
-        <repository><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></repository>
+        <repository><![CDATA[https://aassuncao39.github.io./]]></repository>
         <tags><![CDATA[paebm,plugin,python]]></tags>
         <downloads>1</downloads>
-        <average_vote></average_vote>
-        <rating_votes></rating_votes>
-        <external_dependencies></external_dependencies>
-        <server>False</server>
-    </pyqgis_plugin>
-    <pyqgis_plugin name="EspeleologiaTools" version="0.1" plugin_id="4">
-        <description>This plugin is a repository of tools developed to the Espeleo project</description>
-        <about></about>
-        <version>0.1</version>
-        <trusted>True</trusted>
-        <qgis_minimum_version>3.0</qgis_minimum_version>
-        <qgis_maximum_version>3.99</qgis_maximum_version>
-        <homepage><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></homepage>
-        <file_name>espeleo.zip</file_name>
-        <icon>images/icon.png</icon>
-        <author_name>Tetra Tech, Inc</author_name>
-        <download_url>https://coffeyinformationbr.bitbucket.io/espeleo.zip</download_url>
-        <uploaded_by><![CDATA[elpaso]]></uploaded_by>
-        <create_date>2024-07-14T05:53:59.287786+00:00</create_date>
-        <update_date>2024-07-14T05:53:59.287786+00:00</update_date>
-        <experimental>False</experimental>
-        <deprecated>False</deprecated>
-        <tracker><![CDATA[https://github.com/elpaso/quickwkt/issues]]></tracker>
-        <repository><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></repository>
-        <tags><![CDATA[espeleologia,gis,python]]></tags>
-        <downloads></downloads>
         <average_vote></average_vote>
         <rating_votes></rating_votes>
         <external_dependencies></external_dependencies>
@@ -112,45 +60,19 @@
         <trusted>True</trusted>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
-        <homepage><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></homepage>
+        <homepage><![CDATA[https://aassuncao39.github.io./]]></homepage>
         <file_name>dbrk.zip</file_name>
         <icon>images/icon.png</icon>
         <author_name>Tetra Tech, Inc</author_name>
-        <download_url>https://coffeyinformationbr.bitbucket.io/dbrk.zip</download_url>
+        <download_url>https://aassuncao39.github.io./dbrk.zip</download_url>
         <uploaded_by><![CDATA[elpaso]]></uploaded_by>
         <create_date>2024-07-14T05:53:59.287786+00:00</create_date>
         <update_date>2024-07-14T05:53:59.287786+00:00</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/elpaso/quickwkt/issues]]></tracker>
-        <repository><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></repository>
-        <tags><![CDATA[espeleologia,gis,python]]></tags>
-        <downloads></downloads>
-        <average_vote></average_vote>
-        <rating_votes></rating_votes>
-        <external_dependencies></external_dependencies>
-        <server>False</server>
-    </pyqgis_plugin>
-    <pyqgis_plugin name="Outorgas" version="0.5" plugin_id="6">
-        <description>Tool in development to gather water permit data in MG and PA</description>
-        <about></about>
-        <version>0.5</version>
-        <trusted>True</trusted>
-        <qgis_minimum_version>3.0</qgis_minimum_version>
-        <qgis_maximum_version>3.99</qgis_maximum_version>
-        <homepage><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></homepage>
-        <file_name>outorgas.zip</file_name>
-        <icon>img/icon.png</icon>
-        <author_name>Tetra Tech, Inc</author_name>
-        <download_url>https://coffeyinformationbr.bitbucket.io/outorgas.zip</download_url>
-        <uploaded_by><![CDATA[elpaso]]></uploaded_by>
-        <create_date>2024-11-13T13:36:59.287786+00:00</create_date>
-        <update_date>2024-11-13T13:36:59.287786+00:00</update_date>
-        <experimental>False</experimental>
-        <deprecated>False</deprecated>
-        <tracker><![CDATA[https://github.com/elpaso/quickwkt/issues]]></tracker>
-        <repository><![CDATA[https://bitbucket.org/coffeyinformationbr/coffeyinformationbr.bitbucket.io/src/main/]]></repository>
-        <tags><![CDATA[outorgas,gis,python]]></tags>
+        <repository><![CDATA[https://aassuncao39.github.io./]]></repository>
+        <tags><![CDATA[dbrk,gis,python]]></tags>
         <downloads></downloads>
         <average_vote></average_vote>
         <rating_votes></rating_votes>
